@@ -19,6 +19,16 @@ a{
   display: flex;
   flex-direction: column;
 }
+a:hover{
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+header nav{
+  /* display: grid; */
+  
+
+}
 
 
 .homeBackground{

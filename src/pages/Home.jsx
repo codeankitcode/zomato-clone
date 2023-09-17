@@ -9,8 +9,8 @@ export default function Home(){
 
     return(
     <div style={styles} className='homeBackground'>
-        <h1>zomato</h1>
-        <p>Discover the best food & drinks in Delhi NCR</p>
+        {/* <h1>zomato</h1>
+        <p>Discover the best food & drinks in Delhi NCR</p> */}
     </div>
     )
 }
